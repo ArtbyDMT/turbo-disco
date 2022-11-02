@@ -2,7 +2,7 @@ let x = 3;
 
 // The value assigned to y is a COPY OF the value of x
 // PRIMITIVES are COPIED BY VALUE
-let y = x;
+const y = x;
 
 x = 2;
 
